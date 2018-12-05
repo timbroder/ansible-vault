@@ -1,8 +1,8 @@
 ---
 # defaults file for vault
 
-vault_version: 0.6.2
-vault_sha256sum: 91432c812b1264306f8d1ecf7dd237c3d7a8b2b6aebf4f887e487c4e7f69338c
+vault_version: 1.0.0
+vault_sha256sum: 75afb647d2ebeb46aafbf147ed1f1b379f6b8c9f909550dc2d0976cf153e8aa6
 
 vault_backend: inmem
 vault_disable_mlock: false
