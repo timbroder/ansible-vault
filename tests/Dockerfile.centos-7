@@ -30,7 +30,7 @@ RUN echo -e "[defaults]\nroles_path = /etc/ansible/roles\nretry_files_enabled = 
 RUN echo -e "[local]\nlocalhost ansible_connection=local" > /etc/ansible/hosts
 
 # Install role dependencies
-RUN ansible-galaxy install kbrebanov.unzip
+RUN ansible-galaxy -c install kbrebanov.unzip
 
 VOLUME ["/sys/fs/cgroup"]
 CMD ["/usr/sbin/init"]
