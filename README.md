@@ -1,10 +1,7 @@
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-
 vault
 =====
 
-[![Build Status](https://travis-ci.org/kbrebanov/ansible-vault.svg?branch=ma
-ster)](https://travis-ci.org/kbrebanov/ansible-vault)
+[![Build Status](https://travis-ci.org/timbroder/ansible-vault.svg?branch=master)](https://travis-ci.org/timbroder/ansible-vault)
 
 Installs and configures Vault
 
