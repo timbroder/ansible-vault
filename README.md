@@ -85,4 +85,6 @@ BSD
 Author Information
 ------------------
 
-Kevin Brebanov
+Original: [Kevin Brebanov](https://github.com/kbrebanov/ansible-vault)
+
+Maintainer: [Tim Broder](https://github.com/timbroder)
