@@ -74,7 +74,7 @@ Install Vault using Consul backend
 ```yaml
 - hosts: all
   roles:
-    - kbrebanov.vault
+    - timbroder.ansible_vault
 ```
 
 License
